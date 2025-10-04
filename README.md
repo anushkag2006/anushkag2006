@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">Data Science Enthusiast | Passionate about turning data into insights</h3>
