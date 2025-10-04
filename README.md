@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
