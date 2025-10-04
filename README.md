@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Anushka </h1>
-## Data Science Enthusiast |  Passionate about turning data into insights
+##Data Science Enthusiast |  Passionate about turning data into insights
 
 ###
 
