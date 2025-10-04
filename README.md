@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Anushka <br>Data Science Enthusiast |  Passionate about turning data into insights</h2>
+<h2 align="center">Hi 👋! My name is Anushka 
+<br>Data Science Enthusiast |  Passionate about turning data into insights</h2>
 
 ###
 
