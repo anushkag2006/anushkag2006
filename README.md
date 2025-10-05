@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on A data analysis project using pyhton and building a portfolio of data science projects<br><br>🌱 I’m currently learning Machine learning Algorithms,Data Visualisation(Matplotlib,Seaborn,Power BI),Data Cleaning,SQL for handling,Statistics and Probability<br><br>📫 How to reach me anushkag0802@gmail.com<br><br>⚡ Fun fact When I'm not coding,you'll find me exploring new cafes or music playlists</p>
+<p align="left">🔭 I’m currently working on A data analysis project using python and building a portfolio of data science projects<br><br>🌱 I’m currently learning Machine learning Algorithms,Data Visualisation(Matplotlib,Seaborn,Power BI),Data Cleaning,SQL for handling,Statistics and Probability<br><br>📫 How to reach me anushkag0802@gmail.com<br><br>⚡ Fun fact When I'm not coding,you'll find me exploring new cafes or music playlists</p>
 
 ###
 
