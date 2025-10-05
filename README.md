@@ -13,6 +13,8 @@
 ###
 
 <br clear="both">
+img src="	https://raw.githubusercontent.com/serendipityerr/s…pityerr/output/github-contribution-grid-snake.svg"/>
+
 
 ###
 <div align="left">
