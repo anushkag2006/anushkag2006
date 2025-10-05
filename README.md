@@ -12,6 +12,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anushkag2006/anushkag2006/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/anushka-396223317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -47,13 +53,13 @@
 
 ###
 
-<img align="right" height="292" src="https://cdni.iconscout.com/illustration/premium/thumb/female-designer-8603009-6814270.png"  />
+<img align="right" height="295" src="https://cdni.iconscout.com/illustration/premium/thumb/female-designer-8603009-6814270.png"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkag2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkag2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkag2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
 
 ###
